@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1439805577",
+    "firebase_url": "https://gaeplaychat.firebaseio.com",
+    "project_id": "gaeplaychat",
+    "storage_bucket": "gaeplaychat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1439805577:android:cd56371d7d800b22",
+        "android_client_info": {
+          "package_name": "com.google.cloud.solutions.flexenv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1439805577-elj22fnakvu24kk64cbvga7878mdn5pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.cloud.solutions.flexenv",
+            "certificate_hash": "efbfb1eb3ff4e16208d0b04663633195aac9c60b"
+          }
+        },
+        {
+          "client_id": "1439805577-e4ghik0kv4061pjaqp2074lnubh5d4ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHFoPmjFMJFGw9Ee5nSygN1kS5bK8nDdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1439805577-e4ghik0kv4061pjaqp2074lnubh5d4ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
